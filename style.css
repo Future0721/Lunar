@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue';
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    color: white;
+    margin: 0 auto;
+    width:auto;
+    height: auto;
+}
+h1 {
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+p {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+main{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    width:auto;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main img{
+    max-width: 100%;
+    margin: 0 auto;
+    width:auto;
+    height: auto;
+    padding-left: 20%
+}
+a {
+    color: aliceblue;
+}
+a:hover{
+    color: turquoise;
+}
+footer{
+    text-align: center;
+    
+}
+footer p{
+    margin: 0;
+}
+p.caption {
+    color: grey;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 30px;
+    font-style: italic;
+}
